@@ -1,7 +1,7 @@
 ## 1. SYSTEM ARCHITECTURE (High-Level)
 ```mermaid
 flowchart TD
-    GUI["GUI (Tauri)\nDashboard / Proxy Viewer"]
+    GUI["GUI (Wails)\nDashboard / Proxy Viewer"]
     CLI["CLI (Cobra)\nCI/CD Integration"]
     API["API Layer\nREST + WebSocket"]
 
